@@ -26,7 +26,7 @@ SSL is supported. Pass your connection parameters as you would to the [core HTTP
 To use in your project:
 
 ```
-npm install multichain-node --save
+npm install generalised-multichain-node
 ```
 
 To run the tests:
