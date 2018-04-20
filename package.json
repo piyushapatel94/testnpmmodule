@@ -1,6 +1,6 @@
 {
-  "name": "multichain-node",
-  "version": "2.1.6-version1.0.2",
+  "name": "generalised-multichain-node",
+  "version": "1.0.1",
   "description": "A wrapper for the Multichain JSON-RPC api that parses your input.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scoin/multichain-node.git"
+    "url": "https://github.com/piyushapatel94/testnpmmodule.git"
   },
   "keywords": [
     "blockchain",
@@ -16,12 +16,12 @@
     "bitcoin",
     "rpc"
   ],
-  "author": "Greg Piccolo",
+  "author": "Arun Hossamani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scoin/multichain-node/issues"
+    "url": "https://github.com/piyushapatel94/testnpmmodule.git/issues"
   },
-  "homepage": "https://github.com/scoin/multichain-node#readme",
+  "homepage": "https://github.com/piyushapatel94/testnpmmodule.git#readme",
   "dependencies": {},
   "devDependencies": {
     "bluebird": "^3.3.3"
